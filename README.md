@@ -7,10 +7,5 @@ Folder "data" contains the data file.
 
 Folder "library" contains sbutils library.
 
-Jupyter notebook "diabetic_retinopathy_detector.ipynb" contains the code used.
+Jupyter notebook "Income_by_gender_race_visualization" contains the code used with detailed explanation.
 
-Excel file "Metrics_Report" contains summarized metrics.
-
-There is also a related powerpoint "Presentation_Slide_Deck".
-
-The intention was to include saved models as well, but the sizes of the files were too big for github, which has a 25MB file size limit.
